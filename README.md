@@ -1,2 +1,3 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Kamzazik/qa-engineer-project-85/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Kamzazik/qa-engineer-project-85/actions)
+ Данный проект-тестирование сайта Codebattle. В нем находятся файлы, каждый из файло отвечает зо отдельный вид теста. about.yml-здесь находятся данные о тестировщике магазина, requirements.yml-в данном файле находятся требования в магазину, test-cases.yml-здесь находятся тест-кейсы, testing-report.yml-здесь идет процесс проведения тестирования по тест-кейсам, и результат тестированний, bugreports.yml-здесь находятся баг репорты, regress-report.yml-здесь результат регрессионого тестирования(тестирования по старым тест кейсам, баг репорты)
